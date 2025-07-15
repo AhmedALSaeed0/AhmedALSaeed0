@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Welcome Gif" />
 </div>
 
-###
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-al-saeed3594" target="_blank">
@@ -13,15 +13,17 @@
   </a>
 </div>
 
-###
+<br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedalsaeed.ahmedalsaeed" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedalsaeed.ahmedalsaeed" alt="Visitor Badge" />
 </div>
 
----
+<br/>
 
-<h1 align="center">👋 Welcome to My GitHub!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Al-Saeed!;Cloud+and+DevOps+Engineer" />
+</p>
 
 ---
 
@@ -83,5 +85,3 @@ Hi! I'm <strong>Ahmed Al-Saeed</strong>, a technology enthusiast driven by a dee
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ahmedalsaeed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
 </div>
-
----
